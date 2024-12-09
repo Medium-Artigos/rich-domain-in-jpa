@@ -1,0 +1,1 @@
+# rich-domain-in-jpa
